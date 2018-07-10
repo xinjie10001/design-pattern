@@ -1,4 +1,4 @@
-package com.mmgg.proxy.blog.jdkproxy;
+package com.mmgg.proxy.jdkproxy;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

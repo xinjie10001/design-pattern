@@ -1,4 +1,4 @@
-package com.mmgg.proxy.blog.cglibproxy;
+package com.mmgg.proxy.cglibproxy;
 
 public class CMachine {
 

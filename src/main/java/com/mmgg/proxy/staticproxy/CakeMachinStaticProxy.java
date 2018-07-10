@@ -1,7 +1,7 @@
-package com.mmgg.proxy.blog.staticproxy;
+package com.mmgg.proxy.staticproxy;
 
 
-import com.mmgg.proxy.blog.commom.CakeMachine;
+import com.mmgg.proxy.commom.CakeMachine;
 
 public class CakeMachinStaticProxy {
 

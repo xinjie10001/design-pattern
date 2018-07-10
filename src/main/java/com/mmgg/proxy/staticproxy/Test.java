@@ -1,7 +1,7 @@
-package com.mmgg.proxy.blog.staticproxy;
+package com.mmgg.proxy.staticproxy;
 
-import com.mmgg.proxy.blog.commom.BMachine;
-import com.mmgg.proxy.blog.commom.FruitMachine;
+import com.mmgg.proxy.commom.BMachine;
+import com.mmgg.proxy.commom.FruitMachine;
 
 /**
  * 静态动态代理，这种方式可以不用在已经封装好的水果蛋糕类中修改业务，把特殊添加的东西用代理类（服务员）来操作，扩展性也强

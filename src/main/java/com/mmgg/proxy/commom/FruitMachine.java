@@ -1,4 +1,4 @@
-package com.mmgg.proxy.blog.commom;
+package com.mmgg.proxy.commom;
 
 public class FruitMachine implements CakeMachine {
     @Override

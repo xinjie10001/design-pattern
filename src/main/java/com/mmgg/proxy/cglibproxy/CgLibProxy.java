@@ -1,4 +1,4 @@
-package com.mmgg.proxy.blog.cglibproxy;
+package com.mmgg.proxy.cglibproxy;
 
 import org.springframework.cglib.proxy.Enhancer;
 import org.springframework.cglib.proxy.MethodInterceptor;

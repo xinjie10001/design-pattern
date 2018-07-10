@@ -1,6 +1,4 @@
-package com.mmgg.proxy.blog.cglibproxy;
-
-import com.mmgg.proxy.blog.commom.BMachine;
+package com.mmgg.proxy.cglibproxy;
 
 public class cglibTest {
 

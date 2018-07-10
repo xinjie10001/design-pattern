@@ -1,7 +1,7 @@
-package com.mmgg.proxy.blog.jdkproxy;
+package com.mmgg.proxy.jdkproxy;
 
-import com.mmgg.proxy.blog.commom.CakeMachine;
-import com.mmgg.proxy.blog.commom.FruitMachine;
+import com.mmgg.proxy.commom.CakeMachine;
+import com.mmgg.proxy.commom.FruitMachine;
 import sun.misc.ProxyGenerator;
 
 import java.io.FileOutputStream;
